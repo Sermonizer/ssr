@@ -1,0 +1,20 @@
+{
+	"devDependencies": {
+		"@commitlint/cli": "^19.5.0",
+		"@commitlint/config-conventional": "^19.5.0",
+		"@eslint/js": "^9.12.0",
+		"@typescript-eslint/eslint-plugin": "^8.9.0",
+		"@typescript-eslint/parser": "^8.9.0",
+		"eslint": "^9.12.0",
+		"eslint-plugin-react": "^7.37.1",
+		"globals": "^15.11.0",
+		"husky": "^9.1.6",
+		"typescript-eslint": "^8.9.0"
+	},
+	"scripts": {
+		"prepare": "husky"
+	},
+	"dependencies": {
+		"typescript": "5.5.2"
+	}
+}

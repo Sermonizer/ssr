@@ -1,0 +1,2 @@
+npx eslint src/**
+npx --no-install commitlint --edit $1
